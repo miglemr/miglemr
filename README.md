@@ -2,6 +2,8 @@
 
 My name is Miglė, I am a junior web developer based in Lithuania.
 
+### Technologies and tools
+
 #### 🚍 Communication
 
 <div>
